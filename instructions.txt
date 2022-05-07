@@ -1,4 +1,4 @@
-1. go to xampp folder, go to htdocs folder ( if xampp server is not here, install it) then go to htdocs folder
+1. go to xampp folder( if xampp server is not here, install it) then go to htdocs folder
 2. open cmd/ git bash
 3. run git clone [url from git repository]
 4. there is a file name inventory.sql under project folder
